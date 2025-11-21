@@ -1,0 +1,22 @@
+.footer {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  position: sticky;
+  width: 100%;
+  background: var(--color-neutral-0);
+  bottom: 0;
+  padding: 16px 0;
+}
+
+.footer_text {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 24px;
+  color: var(--color-neutral-600);
+}
+
+.footer p a {
+  text-decoration: underline;
+  color: var(--color-neutral-600);
+}

@@ -1,0 +1,13 @@
+@import url("./fonts/stylesheet.css");
+@import url("./reset.css");
+@import url("./variables.css");
+
+:root {
+  min-width: 1280px;
+}
+
+body {
+  min-width: 1280px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
